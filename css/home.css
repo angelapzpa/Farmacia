@@ -1,0 +1,61 @@
+
+body{
+    position:static;
+
+}
+.Datos-de-medicamento{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 220px;
+    right: 80%;
+    width: 205px;
+    border-radius: 10%;
+}
+.Registro-de-medicamento{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 220px;
+    right: 60%;
+    width: 205px;
+    border-radius: 10%;
+}
+.boton-nuevo{
+    position: relative;
+    left: 4%;
+}
+.Datos-de-vacuna{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 220px;
+    right: 40%;
+    width: 205px;
+    border-radius: 10%;
+}
+.boton-vacuna{
+    position: relative;
+    left: 10%;
+}
+.Registro-de-vacuna{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 220px;
+    right: 20%;
+    width: 205px;
+    border-radius: 10%;
+}
+.boton-nueva{
+    position: relative;
+    left: 15%;
+}
+.Administrador-de-usuarios{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 220px;
+    right: 2%;
+    width: 205px;
+    border-radius: 10%;
+}
+.boton-usuario{
+    position: relative;
+    left: 5%;
+}
